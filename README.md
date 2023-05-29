@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Unsupervised Domain Adaptation problem for synthetic to real image translation
+- 🌱 I’m currently learning AWS and cloud computing
+- 📫 How to reach me: solmaz.arezoomandan@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=matlab,py,pytorch,sqlite,tensorflow,flask,git,css,html,latex)](https://skillicons.dev)
 <!--
-**iamsolmaz/iamsolmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soltechie/Soltechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
